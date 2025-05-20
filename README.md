@@ -50,7 +50,7 @@ Visit http://localhost:3000 to use Cardify locally.
 Made with ❤️ by NEKsssii
 
 📃 License
-This project is open-source under
+This project is open-source under GPL-3
 
 🙌 Acknowledgements
 
