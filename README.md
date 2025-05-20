@@ -1,2 +1,5 @@
-# Cardify
-It's an all new app which will help you to generate card ideas and features for your bussiness .
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
